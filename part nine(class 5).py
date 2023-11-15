@@ -1,20 +1,20 @@
-# # The Python Standard Library
-# from random import randint
-# print(randint(3, 9))
-# print(randint(4, 12,))
+# The Python Standard Library
+from random import randint
+print(randint(3, 9))
+print(randint(4, 12,))
 
-# print("----------------------------------------------------------------------")
-# print("Practice thirteen : Dice")
-# class Die:
-#     def __init__(self, sides=6):
-#         self.sides = sides
-#
-#     def roll_die(self):
-#         print(randint(1, self.sides))
-#
-# die = Die(6)
-# for _ in range(0, 10):
-#     die.roll_die()
+print("----------------------------------------------------------------------")
+print("Practice thirteen : Dice")
+class Die:
+    def __init__(self, sides=6):
+        self.sides = sides
+
+    def roll_die(self):
+        print(randint(1, self.sides))
+
+die = Die(6)
+for _ in range(0, 10):
+    die.roll_die()
 
 
 print("----------------------------------------------------------------------")
