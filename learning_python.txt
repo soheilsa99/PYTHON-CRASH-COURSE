@@ -1,0 +1,11 @@
+In Python you can create and work with variables.
+In Python you can save character variable as string.
+In Python you can save a numerical variable as integer.
+In Python you can save all kind of variable with order sequence in list.
+In Python you can save collection of key_value in dictionary.
+In Python you can save constant list in tuple.
+In Python you can use conditional statements using if , elif, and else.
+In Python you can creat function and class.
+In Python you can read and work with files.
+
+
